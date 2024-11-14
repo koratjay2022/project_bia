@@ -4,7 +4,7 @@ from sklearn.neighbors import LocalOutlierFactor
 from sklearn.metrics import accuracy_score, r2_score
 from sklearn.base import is_classifier, is_regressor
 
-class common_Fucnation : 
+class common_functions : 
     
     # def __init__(self,data) :
     #     self.data = data

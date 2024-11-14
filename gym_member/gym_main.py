@@ -1,7 +1,6 @@
 import pandas as pd
 from sklearn.linear_model import LinearRegression
 from joblib import dump
-import re
 import sys
 sys.path.append("../")
 from Utils.common_function import common_Fucnation,train_and_evaluate_model,train_and_evaluate_multiple_models
